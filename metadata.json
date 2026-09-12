@@ -1,0 +1,7 @@
+{
+  "name": "CivicBridge",
+  "description": "A digital civic participation platform that connects citizens, communities and public administration through problem reporting, solution building and policy consultation.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
